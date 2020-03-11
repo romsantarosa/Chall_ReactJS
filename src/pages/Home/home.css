@@ -1,0 +1,50 @@
+
+.list-news{
+    margin: 15px;    
+}
+
+.list-news article{    
+    margin: 15px;
+    padding: 15px;
+}
+
+.img-size {
+    float: left;
+    display: table-cell;
+    width: 300px;
+    height: 150px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.name-title {
+    float: left;
+    display: table-cell;
+    width: 500px;
+    margin: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(54, 54, 54);
+}
+
+.name-content {
+    float: left;
+    display: table-cell;
+    width: 500px;
+    margin: 15px;
+    font-size: 15px;
+    color: #666;
+}
+
+.content {
+    display: table;
+    border: 1px solid#979797;
+    margin: 20px;
+    padding: 20px;
+    border-radius:15px;
+    background-color: #F0EFEF;    
+}
+
